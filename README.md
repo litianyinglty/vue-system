@@ -3,8 +3,10 @@
 此项目是 vue + element-ui 构建的后台管理系统，具有真实的注册、登陆、管理数据、权限验证等功能。
 
 ## 技术栈
-vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui
-对接口，公用组件和方法都做了统一的封装，ajax也用了promise进行了封装
+```
+  vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui + eslint
+  对接口，公用组件和方法都做了统一的封装，ajax也用了promise进行了封装
+```
 
 ## 项目运行
 ```
@@ -28,4 +30,7 @@ npm run dev
 ```
 
 ## 部分截图
-    
+![主页](https://raw.githubusercontent.com/dj49846917/vue-system/master/static/home.png)
+![商品页](https://raw.githubusercontent.com/dj49846917/vue-system/master/static/goods.png)
+![人员列表页](https://raw.githubusercontent.com/dj49846917/vue-system/master/static/personList.png)
+
